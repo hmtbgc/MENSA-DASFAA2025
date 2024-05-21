@@ -1,2 +1,2 @@
 # MENSA
-code for MENSA
+total code for MENSA
