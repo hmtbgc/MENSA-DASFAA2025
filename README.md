@@ -3,8 +3,6 @@ For dataset Flickr, Reddit, Yelp and Amazon, download them from [Google Drive li
 
 ```
 /PATH/TO/THIS_DIR
-│   
-└───graphsage
 |   
 └───mensa
 | 
@@ -16,7 +14,7 @@ For dataset Flickr, Reddit, Yelp and Amazon, download them from [Google Drive li
 
 For Ogbn-arxiv and Ogbn-products, they will be downloaded automatically.
 
-If you want to run certain algorithm(e.g. mensa):
+If you want to run algorithm mensa:
 ```shell
 cd mensa
 bash run.sh
